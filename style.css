@@ -198,3 +198,8 @@
 
 nav > ul li       ul { display: none; }
 nav > ul li:hover ul { display: block;}
+
+.B-img-intro {
+  width:500px;
+  height:500px;
+}
